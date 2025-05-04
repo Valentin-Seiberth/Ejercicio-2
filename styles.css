@@ -1,0 +1,59 @@
+body {
+    background-color: rgb(148, 147, 147);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.h1 {
+    text-align: center;
+    margin-top: 30px;
+    color: black;
+}
+.form {
+    background-color: white;
+    width: 90%;
+    max-width: 500px;
+    margin: 40px auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+.label, .dias {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    color: #222;
+    font-weight: bold;
+}
+.select, .nro {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: #fafafa;
+    color: #000;
+}
+
+.boton {
+    width: 100%;
+    padding: 10px;
+    background-color: red;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+}
+
+.boton:hover {
+    background-color: rgb(197, 5, 5);
+}
+.h2 {
+    text-align: center;
+    color: black;
+    margin-top: 20px;
+}
+.costoFinal {
+    text-align: center;
+    font-size: 1.2em;
+    color: black;
+    margin-top: 10px;
+}
